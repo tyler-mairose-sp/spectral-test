@@ -1,4 +1,3 @@
-#extends: spectral:oas
 functions: [abc]
 rules:
   my-rule:
